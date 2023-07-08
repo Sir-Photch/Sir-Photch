@@ -12,6 +12,6 @@ I program sometimes.
 
 ### Logos that I find interesting:
 
-![Interests](https://skillicons.dev/icons?i=rust,linux,ros,github,bash,latex&perline=3&theme=light)
+![Interests](https://skillicons.dev/icons?i=rust,pytorch,linux,ros,github,latex&perline=3&theme=light)
   
 Thank you for your attention!
